@@ -146,7 +146,7 @@ Can expand existing notes:
 
 ### Genel Bakış
 
-Claude için kapsamlı akademik literatür araştırma skill'i. 5-15 iteratif arama döngüsü ile 12-50+ kaynak kullanır (bazen daha da fazla). Dilinizi otomatik algılar ve Obsidian markdown veya PDF formatında APA7 dipnotlu araştırma notları oluşturur. Araştırmayı uzatabilirsiniz.
+Claude için kapsamlı akademik literatür araştırma skill'i. 5-15 iteratif arama döngüsü ile 12-50+ kaynak kullanır (bazen daha da fazla). Dilinizi otomatik algılar ve Obsidian markdown veya PDF formatında APA7 dipnotlu araştırma notları oluşturur. İsterseniz bitince komut vererek araştırmayı uzatabilirsiniz/derinleştirebilirsiniz.
 
 ### Ana Özellikler
 
