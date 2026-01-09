@@ -236,7 +236,7 @@ Tam Türkçe akademik yazım desteği:
 
 - **Otomatik Algılama:** Türkçe prompt yazın → Türkçe çıktı alın
 - **Akademik Dil:** Doğru Türkçe ve akademik üslup (resmi, edilgen yapı)
-- **Doğal Terminoloji:** "Ek aramalar" değil "Takip aramaları", "Literatür haritası" değil "Atıf manzarası" (dilin uyum sağlaması için özellikle)
+- **Doğal Terminoloji:** Dilin uyum sağlaması için kelime/dil bilgisi olarak uygun çeviriler
 - **Teknik Terimler:** İngilizce'yi Türkçe açıklamayla birlikte belirtir: "bilişsel yük (cognitive load)"
 - **İmla Kuralları:** Türkçe yazım kuralları ve akademik gelenekleri takip eder
 
