@@ -249,7 +249,7 @@ Tam Türkçe akademik yazım desteği:
 ### Araştırmayı Sürdürme
 
 Mevcut notları genişletebilir:
-1. "araştırmayı sürdür [konu]" veya "bu notu genişlet" yazın
+1. "[konu]da araştırmayı sürdür" veya "bu notu genişlet" yazın
 2. Claude mevcut notu yükler
 3. Araştırma günlüğünden boşlukları tespit eder
 4. Hangi boşluğun ele alınacağını sorar
