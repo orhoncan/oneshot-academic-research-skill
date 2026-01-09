@@ -259,7 +259,7 @@ Mevcut notları genişletebilir:
 
 ### Farkı Yaratan Özellikler
 
-- **Gerçekten Derin:** Standart 25-50+ kaynak (10-15 yerine)
+- **Derinlemesine Araştırma:** Standart 25-50+ kaynak (10-15 yerine)
 - **İteratif:** Boşluk tespitli çoklu arama döngüleri (tek seferlik yerine)
 - **Stratejik:** 4 fazlı yaklaşım kapsamlı ele alış sağlar
 - **Dengeli:** Çoklu perspektifle bakar (destekleyici, eleştirel, alternatif)
