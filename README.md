@@ -89,6 +89,7 @@ When you choose Obsidian format:
 - **MOC Integration:** Adds entry to your Map of Content if it exists
 - **Smart Tags:** Suggests relevant tags (no # prefix, Obsidian adds it)
 - **Dataview Metadata:** Custom fields for queries (`source_count`, `quality_score`, etc.)
+- **TikZ etc. Support**
 
 ### Turkish Language Support
 
@@ -227,6 +228,7 @@ Obsidian formatını seçtiğinizde:
 - **MOC Entegrasyonu:** Varsa İçerik Haritanıza (MOC) giriş ekler
 - **Akıllı Etiketler:** İlgili etiketler önerir (# ön eki yok, Obsidian ekler)
 - **Dataview Metadatası:** Sorgular için özel alanlar (`source_count`, `quality_score`, vb.)
+- **TikZ vb. Desteği**
 
 ### Türkçe Dil Desteği
 
@@ -320,3 +322,9 @@ Feel free to fork!
 **English:** If this skill helps your research, please star the repository!
 
 **Türkçe:** Bu beceri araştırmanıza yardımcı oluyorsa, lütfen repository'yi yıldızlayın!
+
+--- 
+
+# Sample Ouputputs / Örnek Çıktılar
+
+[DeFi Markets in Türkiye](https://blog.orhon.net.tr/Ara%C5%9Ft%C4%B1rmalar/DeFi+and+Crypto+Markets+in+T%C3%BCrkiye) (English)
