@@ -121,7 +121,7 @@ Can expand existing notes:
 ### What Makes This Different
 
 - **Truly Deep:** 25-50+ sources standard, not 10-15
-- **Iterative:** Multiple search cycles with gap identification, not one-shot
+- **Iterative:** Multiple search cycles with gap identification, not one-shot (only the prompt is)
 - **Strategic:** 4-phase approach ensures comprehensive coverage
 - **Balanced:** Requires multiple perspectives (supporting, critical, alternative)
 - **Documented:** Every search cycle logged for transparency
@@ -260,7 +260,7 @@ Mevcut notları genişletebilir:
 ### Farkı Yaratan Özellikler
 
 - **Derinlemesine Araştırma:** Standart 25-50+ kaynak (10-15 yerine)
-- **İteratif:** Boşluk tespitli çoklu arama döngüleri (tek seferlik yerine)
+- **İteratif:** Boşluk tespitli çoklu arama döngüleri (tek seferlik araştırma yerine)
 - **Stratejik:** 4 fazlı yaklaşım kapsamlı ele alış sağlar
 - **Dengeli:** Çoklu perspektifle bakar (destekleyici, eleştirel, alternatif)
 - **Belgelenmiş:** Şeffaflık için her arama döngüsü kaydedilir
